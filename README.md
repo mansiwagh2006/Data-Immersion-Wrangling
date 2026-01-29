@@ -9,6 +9,7 @@ Raw datasets often contain missing values, incorrect data types, duplicates, and
 This step ensures that the data is reliable, structured, and analysis-ready before performing any exploratory analysis or hypothesis testing.
 
 
+
 📌 Folder Description
 data/
 
@@ -27,6 +28,7 @@ README.md
 Explains the purpose, tools, and outcomes of this project.
 
 
+
 🛠️ Tools & Technologies Used
 
 Python – Core programming language for data manipulation
@@ -34,6 +36,7 @@ Python – Core programming language for data manipulation
 Pandas – Data cleaning, transformation, and validation
 
 Jupyter Notebook – Interactive environment for step-by-step execution and documentation
+
 
 
 🔄 Data Cleaning Process
