@@ -6,17 +6,7 @@ The objective of this phase is to clean, standardize, and prepare a raw sales da
 Raw datasets often contain missing values, incorrect data types, duplicates, and inconsistent formats.
 This step ensures that the data is reliable, structured, and analysis-ready before performing any exploratory analysis or hypothesis testing.
 
-Folder structure
-|
-├── data/
-│   ├── sample_be_sales.csv
-│   ├── final_clean_sales_data.csv
-│
-├── scripts/
-│   ├── Data_Immersion_Wrangling.ipynb
-│
-├── data_dictionary.md
-├── README.md
+
 📌 Folder Description
 data/
 Contains both the raw dataset and the final cleaned dataset.
@@ -27,6 +17,7 @@ Describes each column, its data type, and its business meaning.
 README.md
 Explains the purpose, tools, and outcomes of this project.
 
+
 🛠️ Tools & Technologies Used
 
 Python – Core programming language for data manipulation
@@ -34,6 +25,7 @@ Python – Core programming language for data manipulation
 Pandas – Data cleaning, transformation, and validation
 
 Jupyter Notebook – Interactive environment for step-by-step execution and documentation
+
 
 🔄 Data Cleaning Process
 The following steps were performed to ensure data quality and consistency:
